@@ -40,9 +40,13 @@ Jake Morrishs' Maths Revision
   * [4.6 Stretching graphs](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
   * [4.7 Transforming functions](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
 
-* **1.5 Legal, moral, cultural and ethical issues**
-  * 1.5.1 Computing related legislation
-  * 1.5.2 Moral and ethical issues
+* **10 Trigonometric identities and equations**
+  * [10.1 Angles in all four quadrants](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [10.2 Exact values of trigonometric ratios](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [10.3 Trigonometric identities](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [10.4 Simple trigonometric equations](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [10.5 Harder trigonometric equations](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [10.6 Equations and identities](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
 
 <br>
 
