@@ -41,12 +41,12 @@ Jake Morrishs' Maths Revision
   * [4.7 Transforming functions](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
 
 * **10 Trigonometric identities and equations**
-  * [10.1 Angles in all four quadrants](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * [10.2 Exact values of trigonometric ratios](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * [10.3 Trigonometric identities](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * [10.4 Simple trigonometric equations](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * [10.5 Harder trigonometric equations](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * [10.6 Equations and identities](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [10.1 Angles in all four quadrants](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%2010/10.1.md)
+  * [10.2 Exact values of trigonometric ratios](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%2010/10.2.md)
+  * [10.3 Trigonometric identities](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%2010/10.3.md)
+  * [10.4 Simple trigonometric equations](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%2010/10.4.md)
+  * [10.5 Harder trigonometric equations](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%2010/10.5.md)
+  * [10.6 Equations and identities](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%2010/10.6.md)
 
 <br>
 
