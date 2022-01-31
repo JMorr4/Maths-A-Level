@@ -7,7 +7,7 @@ Jake Morrishs' Maths Revision
 # Contents 
 ### Pure Mathematics - Year 1/AS
 * **1 Algebraic expressions**
-  * [1.1 Index laws](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.1.md)
+  * [1.1 Index laws](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/1%20Algebraic%20expressions/1.1.md)
   * [1.2 Expanding brackets](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
   * [1.3 Factorising](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
   * [1.4 Negative and fractional indicies](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
