@@ -31,10 +31,14 @@ Jake Morrishs' Maths Revision
   * [3.6 Inequalities on graph](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
   * [3.7 Regions](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
 
-* **1.4 Data types, data structures and algorithms**
-  * 1.4.1 Data types
-  * 1.4.2 Data structures
-  * 1.4.3 Boolean Algebra
+* **4 Graphs and transformations**
+  * [4.1 Cubic graphs](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.2 Quartic graphs](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.3 Reciprocal graphs](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.4 Points of intersection](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.5 Translating graphs](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.6 Stretching graphs](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.7 Transforming functions](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
 
 * **1.5 Legal, moral, cultural and ethical issues**
   * 1.5.1 Computing related legislation
