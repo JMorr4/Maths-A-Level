@@ -7,7 +7,7 @@ Jake Morrishs' Maths Revision
 # Contents 
 ### Pure Mathematics - Year 1/AS
 * **1 Algebraic expressions**
-  * [1.1 Index laws](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/1%20Algebraic%20expressions/1.1.md)
+  * [1.1 Index laws](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%201/1.1.md)
   * [1.2 Expanding brackets](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
   * [1.3 Factorising](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
   * [1.4 Negative and fractional indicies](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
@@ -15,7 +15,7 @@ Jake Morrishs' Maths Revision
   * [1.6 Rationalising denominators](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
 
 * **2 Quadratics**
-  * [2.1 Solving quadratics equations](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [2.1 Solving quadratics equations](https://github.com/JMorr4/Maths-A-Level/blob/main/Contents/Topic%202/2.1.md)
   * [2.2 Completing the square](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
   * [2.3 Functions](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
   * [2.4 Quadratics](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
